@@ -9,6 +9,8 @@
 - Use node version 10 or above（使用 node 10 或更高版本）
 - clone the repository from https://github.com/caminerinc/treelab-exercise （从 https://github.com/caminerinc/treelab-exercise  clone 代码库）
 - create a new branch like `<your name>-exercise`（创建一个新的分支，如`<您的名字>-exercise`）
+- run `yarn` or `npm install`
+- run `yarn run dev` or `npm run dev`
 - after you are done, push up to this branch and tell us the branch name so we can check your code（将您的代码 push 到该分支，并告诉我们您的分支名称，以便我们检查您的代码）
 
 ### Step 1.（第一步）
