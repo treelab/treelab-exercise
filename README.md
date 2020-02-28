@@ -24,7 +24,7 @@
 
 - Create a file in `/pages/templates/index.tsx`.（在`/pages/templates/index.tsx`中创建一个文件。）
 - When the user enters the page, do a graphql query to retrieve the necessary information.（当用户进入页面时，执行 graphql 请求以得到必要的信息。）
-- To find which graphql query to use, go to http://treelab-gateway.jx-staging.treelab.io/graphql and take a look at the query `getTemplates`.（要查找使用哪个 graphql，请前往链接 http://treelab-gateway.jx-staging.treelab.io/graphql 然后找到`getTemplates`）
+- To find which graphql query to use, go to http://treelab-gateway.jx-staging.treelab.com.cn/graphql and take a look at the query `getTemplates`.（要查找使用哪个 graphql，请前往链接 http://treelab-gateway.jx-staging.treelab.com.cn/graphql 然后找到`getTemplates`）
 - Remember, you can choose which data to get from the backend. Make sure you don't get information you don't need.（请记住，您可以选择从后端获取哪些数据。确保您没有收到不需要的信息。）
 - You need to read the docs in apollo graphql to figure out how to make this query in the component.（您需要阅读 apollo graphql 中的文档，以了解如何在组件中进行此查询。）
 
